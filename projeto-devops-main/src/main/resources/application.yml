@@ -1,0 +1,8 @@
+projeto:
+  name: "projeto"
+  version: 1.0.0
+  enabled: true
+  items:
+    - "item1"
+    - "item2"
+    - "item3"
